@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  -[Links](#Links)
+  - [Links](#links)
 
 
 
@@ -24,6 +24,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I learned about box model and other font properties in a deep way and had a hands-on practice on how to use it in a project.
 
-###Links
+### Links
 - Frontend Mentor - https://www.frontendmentor.io/profile/itsshahinhere
 - Twitter - https://twitter.com/itsshahinhere
